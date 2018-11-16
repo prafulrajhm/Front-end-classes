@@ -1,6 +1,8 @@
 body
 {
 	background-color: #64ffda;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
 }
 .box
 {
@@ -51,7 +53,7 @@ body
 }
 .container-2-content
 {
-	flex: 3;
+	flex: 2;
 	order: 2;
 	text-align: left;
 	line-height: 4px;
