@@ -1,0 +1,35 @@
+.box
+{
+	padding: 40px 10px 40px 10px;
+	background-color: #e7d3d3;
+	height: 300px;
+	width: 500px;
+	border-radius: 5px;
+	border-color: rgb(17, 16, 15);
+	border-width: 50px;
+}
+.heading
+{
+	margin-top: 6px;
+	margin-bottom: 15px;
+	font-family: nunito;
+	color: #424242
+}
+.paragraph
+{
+	font-family: nunito;
+	font-weight: 700;
+	color: #616161;
+	font-size: 1.2em;
+	background-color: black;
+	border-width: 50px;
+	border-color: rgb(33, 184, 184); 
+}
+
+.div1
+{
+	border-color: black;
+	background-color: aliceblue;
+	border-width: 30px;
+	
+}

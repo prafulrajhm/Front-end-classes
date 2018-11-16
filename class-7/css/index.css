@@ -1,0 +1,43 @@
+.container-1
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+.container-1 div
+{
+	border: 1px #cccccc solid;
+}
+
+.box-1
+{
+	flex: 1;
+	order: 2;
+}
+
+.box-2
+{
+	flex: 2;
+	order: 2;
+}
+
+.box-3
+{
+	flex: 1;
+	order: 1;
+}
+.container-2
+{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.container-2 div
+{
+	border: 1px #cccccc solid;
+}
+
+.container-box
+{
+	flex-basis: 30%;
+}
