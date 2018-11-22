@@ -1,0 +1,50 @@
+.content
+{
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background-color: #cccccc;
+}
+.content h2
+{
+	color: rgb(199, 143, 23);
+}
+.content p
+{
+	color: cadetblue;
+	
+}
+.profile-pic
+{
+	border-radius: 50%;
+}
+.center-image
+{
+	text-align: center;
+}
+.car-height
+{
+	height: 40em;
+}
+.container-padding
+{
+	padding-top: 2em;
+	padding-bottom: 2em; 
+}
+.background
+{
+	background-color: #aa9b9b;
+}
+.center-content
+{
+	vertical-align: middle;
+}
+.right-image
+{
+	text-align: right;
+}
+.image-text
+{
+	/* text-align: center; */
+	padding-top: 20%;
+}
