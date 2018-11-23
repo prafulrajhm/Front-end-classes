@@ -1,0 +1,55 @@
+.logo-image{
+	height: 2em;
+	width: auto;
+}
+.cat-image{
+	height: 19rem;
+	width: 100%;
+}
+.car-height{
+	height: 25rem;
+}
+.cont-padding{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+.container h3 {
+	padding-right: 9rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	color: teal;
+	font-size: 2.5em;
+}
+.text1 {
+	padding-top: 3rem;
+}
+.text2 {
+	font-weight: 800;
+}
+.text3 {
+	padding-top: 4rem;
+}
+.side-col {
+	background-color: #e9e8e8;
+	padding: 1rem 0rem 1rem 2rem;
+}
+.news {
+	background-color: rgb(245, 245, 245);
+	margin-top: 2rem;
+	margin-right: 2rem;
+	padding: 1rem;
+}
+.news h6 {
+	margin-top: 1rem;
+}
+a {
+	color: black;
+	font-family: inherit;
+	font-weight: 440;
+}
+.image-text {
+	position: absolute;
+	bottom: 2%;
+	left: 35%;
+	color: rgb(140, 224, 224); 
+}
