@@ -22,12 +22,15 @@
 }
 .text1 {
 	padding-top: 3rem;
+	font-size: 1.2em;
 }
 .text2 {
 	font-weight: 800;
+	font-size: 1.2em;
 }
 .text3 {
 	padding-top: 4rem;
+	font-size: 1.2em;
 }
 .side-col {
 	background-color: #e9e8e8;
@@ -49,7 +52,10 @@ a {
 }
 .image-text {
 	position: absolute;
-	bottom: 2%;
+	bottom: 37%;
 	left: 35%;
 	color: rgb(140, 224, 224); 
+}
+.news li {
+	font-size: 1.1em;
 }
